@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"coordinates": [-48.035113914908464, -1.099284395822167], "type": "Point"}, "properties": {"Trecho": "CAH/MTUB", "Valor": 20.0}, "value": 14.0}]}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"coordinates": [-48.035113914908464, -1.099284395822167], "type": "Point"}, "properties": {"Trecho": "CAH/MTUB", "Valor": 20.0}, "value": 20.0}]}
